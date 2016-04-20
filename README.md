@@ -5,7 +5,7 @@ Instructions
 - Write the solution according to the specifications
 - Create a pull request
 
-Specifications
+Specification
 --------------
 
 - The pseudo-constant defined in the code values may vary (check `index.html`). However, it is guaranteed that:
